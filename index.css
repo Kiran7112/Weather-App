@@ -134,6 +134,7 @@ p{
     }
     .mobile ul li a{
       color: white;
+      text-decoration: none;
     }
     .mobile ul li a:hover{
         color: black;
