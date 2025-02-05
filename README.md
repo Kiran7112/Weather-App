@@ -106,29 +106,6 @@ This project is **MIT Licensed**, meaning you are free to use, modify, and distr
 
 ---
 
-### 🌟 Highlights of the App
 
-#### 1. **Real-Time Weather Updates**
-Get instant weather data for any city, including temperature, humidity, wind speed, and more.
-
-#### 2. **Voice Search**
-Use your voice to search for weather updates—perfect for hands-free convenience.
-
-#### 3. **Geolocation Integration**
-Automatically detect your location and display the current weather without manual input.
-
-#### 4. **Advanced Weather Metrics**
-Detailed insights into air quality, wind direction, and rain predictions help you plan your day effectively.
-
-#### 5. **Sunrise & Sunset Timings**
-Know exactly when the sun rises and sets in your area, along with the local time.
-
----
-
-### 🚀 Start Exploring Today!
-
-Whether you're a developer looking to contribute or a user seeking a reliable weather app, this project has something for everyone. Dive in, explore, and enjoy the seamless experience of checking the weather with this **modern and innovative app**!
-
----
 
 🌟 **Stay ahead of the weather—try it now!** 🌟
