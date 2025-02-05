@@ -5,7 +5,7 @@ Here’s a more creative and polished version of your content, with improved for
 # <h1 align='center'>🌤️ Weather App</h1>
 
 <p align="center">
-A sleek and intuitive **Weather Application** designed to provide real-time weather updates at your fingertips. Built using **HTML**, **CSS**, **JavaScript**, **SweetAlert 2**, **Moment.js**, and powered by the **OpenWeather API**, this app delivers accurate weather data with a modern and user-friendly interface.
+A sleek and intuitive **Weather Application** designed to provide real-time weather updates at your fingertips. Built using HTML, CSS, JavaScript, SweetAlert 2, Moment.js, and powered by the OpenWeather API, this app delivers accurate weather data with a modern and user-friendly interface.
 </p>
 
 ---
@@ -39,16 +39,6 @@ A sleek and intuitive **Weather Application** designed to provide real-time weat
 
 ---
 
-## 🎨 Prototype
-
-Access the **Figma prototype** to explore the design inspiration behind this project:
-
-<a href="https://www.figma.com/community/file/1215291914714743267/%23boraCodar---Desafio-10" target="_blank">
-<img src="https://img.shields.io/badge/Access%20Prototype-2A2141?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Prototype"/>
-</a>
-
----
-
 ## 🛠️ Technologies Used
 
 <p align="center">
@@ -71,15 +61,6 @@ Access the **Figma prototype** to explore the design inspiration behind this pro
 
 ---
 
-## 🚀 Services Used
-
-<p align="center">
-<a href="https://github.com/" target="_blank">
-<img src="https://img.shields.io/badge/GitHub%20Pages-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages"/>
-</a>
-</p>
-
----
 
 ## 🌐 Live Demo
 
@@ -109,10 +90,10 @@ This **Weather App** is not just another weather tool—it’s a **smart, respon
 Contributions are always welcome! If you’d like to improve this project:
 
 1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeatureName`).
-3. Commit your changes (`git commit -m "Add Your Feature"`).
-4. Push to the branch (`git push origin feature/YourFeatureName`).
-5. Open a pull request.
+2. Create a new branch .
+3. Commit your changes .
+4. Push to the branch .
+5. Open a pull request .
 
 Feel free to report bugs, suggest improvements, or add new features!
 
